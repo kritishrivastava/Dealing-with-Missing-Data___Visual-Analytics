@@ -1,7 +1,13 @@
 ## Dealing with Missing Data - Visual Analytics Homework 2
 
 #### Description: 
-Visualizing data set (with missing values) using Bokeh. Coding several approaches to deal with the missing data. Displaying the results with comparisons with the real values.
+Visualizing data set (with missing values) using Bokeh. Coding several approaches to deal with the missing data. Displaying the results with comparisons with the real values. Analyzing the techniques to handle missing data based on different usecases.
+
+Techniques used:
+1. Ignore the record
+2. Use global constant
+3. Use atribute mean
+4. Use most probable value
 
 #### Datasource: http://archive.ics.uci.edu/ml/datasets/Wholesale+customers
 
